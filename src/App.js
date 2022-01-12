@@ -5,7 +5,7 @@ import Counter from "./Counter";
 class App extends React.Component {
   state = {
     fullName: "Rahim Mdn",
-    bio: "I'm a web developer, this my experience through the years...",
+    bio: "I'm a web developer, this my experiences through the years...",
     imgSrc: "/imagevictor.jpg",
     profession: "Web Developer",
     show: false,
