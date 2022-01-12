@@ -47,5 +47,6 @@ class Counter extends React.Component {
     );
   }
 }
+// end
 
 export default Counter;
